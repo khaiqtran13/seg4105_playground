@@ -3,7 +3,7 @@
 | Outline        |                               |
 | -------------- | ----------------------------- |
 | Course         | SEG 4105                      |
-| Material       | Tutorial 2                    |
+| Material       | Tutorial 3                    |
 | Student        | Khai Tran                     |
 | Student Number | 300112587 ktran093@uottawa.ca |
 
