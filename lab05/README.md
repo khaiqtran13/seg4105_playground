@@ -6,3 +6,7 @@
 | Student Number | 300112587 ktran093@uottawa.ca |
 
 I used GitHub markdown
+
+## Kickoff
+
+![Alt text](image.png)
