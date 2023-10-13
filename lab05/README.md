@@ -5,7 +5,11 @@
 | Student        | Khai Tran                     |
 | Student Number | 300112587 ktran093@uottawa.ca |
 
-I used GitHub markdown
+## Tools
+
+Notion
+GitHub
+Discord
 
 ## Kickoff
 
