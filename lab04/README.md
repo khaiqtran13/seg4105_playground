@@ -1,7 +1,7 @@
 | Outline        |                               |
 | -------------- | ----------------------------- |
 | Course         | SEG 4105                      |
-| Material       | Lab 3                         |
+| Material       | Lab 4                         |
 | Student        | Khai Tran                     |
 | Student Number | 300112587 ktran093@uottawa.ca |
 

@@ -35,6 +35,8 @@ The main features of Data Collection include:
 
 ![Alt text](image-1.png)
 
+![Alt text](image-3.png)
+
 ![Alt text](image-2.png)
 
 link to Bootcamp: https://3.basecamp.com/5682135/buckets/34775358/todosets/6656006622
